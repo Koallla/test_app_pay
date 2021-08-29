@@ -137,3 +137,7 @@
  * Debugger PIN: 529-003-846
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 127.0.0.1 - - [29/Aug/2021 18:10:57] "GET / HTTP/1.1" 200 -
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [29/Aug/2021 18:48:04] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [29/Aug/2021 18:48:07] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [29/Aug/2021 18:48:18] "POST / HTTP/1.1" 200 -
