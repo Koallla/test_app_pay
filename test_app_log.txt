@@ -1,0 +1,139 @@
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 529-003-846
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [29/Aug/2021 17:21:43] "GET /form HTTP/1.1" 200 -
+127.0.0.1 - - [29/Aug/2021 17:21:47] "POST /form HTTP/1.1" 200 -
+ * Detected change in 'D:\\Python\\Python_Web_Practice\\Test_task\\app_pay\\test_app\\__init__.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 529-003-846
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Detected change in 'D:\\Python\\Python_Web_Practice\\Test_task\\app_pay\\test_app\\__init__.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 529-003-846
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Detected change in 'D:\\Python\\Python_Web_Practice\\Test_task\\app_pay\\test_app\\__init__.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 529-003-846
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Detected change in 'D:\\Python\\Python_Web_Practice\\Test_task\\app_pay\\test_app\\__init__.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 529-003-846
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Detected change in 'D:\\Python\\Python_Web_Practice\\Test_task\\app_pay\\test_app\\pay_methods.py', reloading
+ * Restarting with stat
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 529-003-846
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [29/Aug/2021 17:43:21] "GET /form HTTP/1.1" 200 -
+127.0.0.1 - - [29/Aug/2021 17:43:23] "GET /form HTTP/1.1" 200 -
+127.0.0.1 - - [29/Aug/2021 17:43:26] "GET /form HTTP/1.1" 200 -
+127.0.0.1 - - [29/Aug/2021 17:46:38] "GET /form HTTP/1.1" 200 -
+127.0.0.1 - - [29/Aug/2021 17:48:04] "GET /form HTTP/1.1" 200 -
+127.0.0.1 - - [29/Aug/2021 17:49:01] "GET /form HTTP/1.1" 200 -
+127.0.0.1 - - [29/Aug/2021 17:49:37] "GET /form HTTP/1.1" 200 -
+127.0.0.1 - - [29/Aug/2021 17:49:56] "GET /form HTTP/1.1" 200 -
+127.0.0.1 - - [29/Aug/2021 17:50:19] "GET /form HTTP/1.1" 200 -
+127.0.0.1 - - [29/Aug/2021 17:50:30] "GET /form HTTP/1.1" 200 -
+ * Detected change in 'D:\\Python\\Python_Web_Practice\\Test_task\\app_pay\\test_app\\pay_methods.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 529-003-846
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Detected change in 'D:\\Python\\Python_Web_Practice\\Test_task\\app_pay\\test_app\\pay_methods.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 529-003-846
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Detected change in 'D:\\Python\\Python_Web_Practice\\Test_task\\app_pay\\test_app\\pay_methods.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 529-003-846
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [29/Aug/2021 17:52:15] "[32mPOST /form HTTP/1.1[0m" 302 -
+127.0.0.1 - - [29/Aug/2021 17:52:19] "GET /form HTTP/1.1" 200 -
+127.0.0.1 - - [29/Aug/2021 17:52:22] "POST /form HTTP/1.1" 200 -
+127.0.0.1 - - [29/Aug/2021 17:52:24] "GET /form HTTP/1.1" 200 -
+127.0.0.1 - - [29/Aug/2021 17:52:29] "POST /form HTTP/1.1" 200 -
+127.0.0.1 - - [29/Aug/2021 17:52:30] "GET /form HTTP/1.1" 200 -
+ * Detected change in 'D:\\Python\\Python_Web_Practice\\Test_task\\app_pay\\test_app\\pay_methods.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 529-003-846
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Detected change in 'D:\\Python\\Python_Web_Practice\\Test_task\\app_pay\\test_app\\pay_methods.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 529-003-846
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Detected change in 'D:\\Python\\Python_Web_Practice\\Test_task\\app_pay\\test_app\\pay_methods.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 529-003-846
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [29/Aug/2021 17:53:57] "POST /form HTTP/1.1" 200 -
+127.0.0.1 - - [29/Aug/2021 17:54:02] "POST /form HTTP/1.1" 200 -
+ * Detected change in 'D:\\Python\\Python_Web_Practice\\Test_task\\app_pay\\test_app\\pay_methods.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 529-003-846
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Detected change in 'D:\\Python\\Python_Web_Practice\\Test_task\\app_pay\\test_app\\pay_methods.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 529-003-846
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Detected change in 'D:\\Python\\Python_Web_Practice\\Test_task\\app_pay\\test_app\\pay_methods.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 529-003-846
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Detected change in 'D:\\Python\\Python_Web_Practice\\Test_task\\app_pay\\test_app\\routes.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 529-003-846
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [29/Aug/2021 18:00:08] "[33mGET /form HTTP/1.1[0m" 404 -
+127.0.0.1 - - [29/Aug/2021 18:00:11] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [29/Aug/2021 18:00:35] "POST / HTTP/1.1" 200 -
+ * Detected change in 'D:\\Python\\Python_Web_Practice\\Test_task\\app_pay\\test_app\\helpers.py', reloading
+ * Restarting with stat
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 529-003-846
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [29/Aug/2021 18:07:03] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [29/Aug/2021 18:07:29] "POST / HTTP/1.1" 200 -
+127.0.0.1 - - [29/Aug/2021 18:08:15] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [29/Aug/2021 18:08:19] "[32mPOST / HTTP/1.1[0m" 302 -
+ * Detected change in 'D:\\Python\\Python_Web_Practice\\Test_task\\app_pay\\test_app\\routes.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 529-003-846
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Detected change in 'D:\\Python\\Python_Web_Practice\\Test_task\\app_pay\\main.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 529-003-846
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Detected change in 'D:\\Python\\Python_Web_Practice\\Test_task\\app_pay\\main.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 529-003-846
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Detected change in 'D:\\Python\\Python_Web_Practice\\Test_task\\app_pay\\main.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 529-003-846
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Detected change in 'D:\\Python\\Python_Web_Practice\\Test_task\\app_pay\\main.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 529-003-846
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [29/Aug/2021 18:10:57] "GET / HTTP/1.1" 200 -

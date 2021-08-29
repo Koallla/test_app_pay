@@ -1,0 +1,25 @@
+{% extends 'base.html' %} {% block title %} Form {% endblock%} {% block content
+%}
+
+<div class="container">
+  <h2>Form page</h2>
+  <br />
+  <form action="" method="POST">
+    {{ form.csrf_token }}
+    <div class="form-control">
+      {{ form.amount.label }} <br />
+      {{ form.amount(size=17) }}
+    </div>
+    <div class="form-control">
+      {{ form.currency.label }}<br />
+      {{ form.currency }}
+    </div>
+    <div class="form-control">
+      {{ form.description.label }} <br />
+      {{ form.description }}
+    </div>
+    <div class="form-control">{{ form.submit() }}</div>
+  </form>
+</div>
+
+{% endblock%}
